@@ -1,0 +1,5 @@
+matplotlib==3.7.5
+pandas==1.5.3
+pdfplumber==0.11.5
+Requests==2.32.4
+streamlit==1.42.0
