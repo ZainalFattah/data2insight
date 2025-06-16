@@ -96,7 +96,7 @@ docker tag [nama_image_lokal] [username_dockerhub]/[nama_image]:[tag]
 
 ```bash
 docker login
-docker [username_dockerhub]/[nama_image]:[tag]
+docker push [username_dockerhub]/[nama_image]:[tag]
 ```
 
 ## Pengguna lain cukup menjalankan:
